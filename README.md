@@ -68,7 +68,7 @@ In the formulas:
 
 The trained model was connected to a software interface for predicting the prescribed drug dose.
 
-![Software Output](a.png)
+![Software Output](a.png.jpeg)
 
 ## Project Files
 
